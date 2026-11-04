@@ -1,6 +1,6 @@
 # UI review checklist
 
-Run each item on every affected page, at **1440×900** and **390×844**, in **light and dark** theme
+Run each item on every affected page, at **1440×900** and **390×844** (defaults — use the project's own breakpoints if it defines them), in **light and dark** theme
 when the site has both. Take a screenshot for anything that fails, and one "after" screenshot per
 page per viewport regardless.
 
